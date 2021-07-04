@@ -9,4 +9,7 @@ https://www.hackerrank.com/challenges/ctci-bubble-sort
 My practicing in Python Introduction and Bubble Sort
 
 #
+Edvīns_EDIBO2.ipynb is created using Google Colaboratory for practice in hackerrank.
+
+#
 https://slides.com/bejibiu_white/edibo2 - summary EDIBO Lesson 2 daily goals
